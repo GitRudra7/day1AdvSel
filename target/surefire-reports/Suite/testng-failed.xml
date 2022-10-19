@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="day1.SecondScript">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="dropdownElement"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- day1.SecondScript -->
+      <class name="day1.DemoScrolling">
+        <methods>
+          <include name="scrollMethod"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- day1.DemoScrolling -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

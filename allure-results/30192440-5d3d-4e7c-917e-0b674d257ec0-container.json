@@ -1,0 +1,1 @@
+{"uuid":"30192440-5d3d-4e7c-917e-0b674d257ec0","name":"day5.GridTest2.close","children":["dc663486-b394-4634-818d-56e71fabcc6b"],"description":"","befores":[],"afters":[{"name":"close","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1658382553462,"stop":1658382553462}],"start":1658382553462,"stop":1658382553462}
